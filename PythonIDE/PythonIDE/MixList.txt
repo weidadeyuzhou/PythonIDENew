@@ -1,0 +1,8 @@
+已混淆文件清单
+/Users/jack/Desktop/PythonIDEmaster/PythonIDE/BuildViewController.m
+/Users/jack/Desktop/PythonIDEmaster/PythonIDE/EditorView.m
+/Users/jack/Desktop/PythonIDEmaster/PythonIDE/ViewController.m
+/Users/jack/Desktop/PythonIDEmaster/PythonIDE/SyntaxTextView/NSString+AttributedStringConversion.m
+/Users/jack/Desktop/PythonIDEmaster/PythonIDE/SyntaxTextView/SyntaxTextView.m
+/Users/jack/Desktop/PythonIDEmaster/PythonIDE/SyntaxTextView/LineNumberLayoutManager.m
+/Users/jack/Desktop/PythonIDEmaster/PythonIDE/AppDelegate.m

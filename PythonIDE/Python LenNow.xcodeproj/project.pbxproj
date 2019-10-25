@@ -1,0 +1,654 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		04064643236149D4002B5274 /* JCKAddPic.m in Sources */ = {isa = PBXBuildFile; fileRef = 04064620236149D4002B5274 /* JCKAddPic.m */; };
+		04064644236149D4002B5274 /* JCKYhgfbnjhgf.m in Sources */ = {isa = PBXBuildFile; fileRef = 04064621236149D4002B5274 /* JCKYhgfbnjhgf.m */; };
+		04064645236149D4002B5274 /* JCKGjutyrfg.m in Sources */ = {isa = PBXBuildFile; fileRef = 04064623236149D4002B5274 /* JCKGjutyrfg.m */; };
+		04064646236149D4002B5274 /* JCKFirstPro.m in Sources */ = {isa = PBXBuildFile; fileRef = 04064625236149D4002B5274 /* JCKFirstPro.m */; };
+		04064647236149D4002B5274 /* JCKReloadLang.m in Sources */ = {isa = PBXBuildFile; fileRef = 0406462C236149D4002B5274 /* JCKReloadLang.m */; };
+		04064648236149D4002B5274 /* JCKThreePic.m in Sources */ = {isa = PBXBuildFile; fileRef = 0406462D236149D4002B5274 /* JCKThreePic.m */; };
+		04064649236149D4002B5274 /* JCKFvdcfghb.m in Sources */ = {isa = PBXBuildFile; fileRef = 0406462E236149D4002B5274 /* JCKFvdcfghb.m */; };
+		0406464A236149D4002B5274 /* JCKUygtf.m in Sources */ = {isa = PBXBuildFile; fileRef = 0406462F236149D4002B5274 /* JCKUygtf.m */; };
+		0406464B236149D4002B5274 /* JCKYunduan.m in Sources */ = {isa = PBXBuildFile; fileRef = 04064634236149D4002B5274 /* JCKYunduan.m */; };
+		0406464C236149D4002B5274 /* JCKGvfdfrtghg.m in Sources */ = {isa = PBXBuildFile; fileRef = 04064635236149D4002B5274 /* JCKGvfdfrtghg.m */; };
+		0406464D236149D4002B5274 /* JCKVcdfg.m in Sources */ = {isa = PBXBuildFile; fileRef = 04064637236149D4002B5274 /* JCKVcdfg.m */; };
+		0406464E236149D4002B5274 /* JCKFhjnbvcf.m in Sources */ = {isa = PBXBuildFile; fileRef = 04064638236149D4002B5274 /* JCKFhjnbvcf.m */; };
+		0406464F236149D4002B5274 /* JCKIjuyhgf.m in Sources */ = {isa = PBXBuildFile; fileRef = 0406463C236149D4002B5274 /* JCKIjuyhgf.m */; };
+		04064650236149D4002B5274 /* JCKJiaXu.m in Sources */ = {isa = PBXBuildFile; fileRef = 0406463D236149D4002B5274 /* JCKJiaXu.m */; };
+		04064651236149D4002B5274 /* JCKFgvcxsdfg.m in Sources */ = {isa = PBXBuildFile; fileRef = 0406463E236149D4002B5274 /* JCKFgvcxsdfg.m */; };
+		04064652236149D4002B5274 /* JCKFdertgfc.m in Sources */ = {isa = PBXBuildFile; fileRef = 0406463F236149D4002B5274 /* JCKFdertgfc.m */; };
+		387BF8437C24B5ED06D4C319 /* libPods-Python IDE.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 17D25AB3059666D037B4F975 /* libPods-Python IDE.a */; };
+		4D13E1DD1E1085E80093BD1A /* Parser.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D13E1DC1E1085E80093BD1A /* Parser.m */; };
+		4D13E1E01E1089250093BD1A /* Token.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D13E1DF1E1089250093BD1A /* Token.m */; };
+		4D13E1E31E108A9B0093BD1A /* AST.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D13E1E21E108A9B0093BD1A /* AST.m */; };
+		4D13E1E61E108D580093BD1A /* Runtime.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D13E1E51E108D580093BD1A /* Runtime.m */; };
+		4D13E1E91E108EE90093BD1A /* Tester.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D13E1E81E108EE90093BD1A /* Tester.m */; };
+		4D30913E1C193F0F005CBDF5 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4D30913D1C193F0F005CBDF5 /* CoreGraphics.framework */; };
+		4D3091401C193F25005CBDF5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4D30913F1C193F25005CBDF5 /* Foundation.framework */; };
+		4D3091421C193F38005CBDF5 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4D3091411C193F38005CBDF5 /* UIKit.framework */; };
+		4D3091541C19425F005CBDF5 /* SyntaxTextView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3091531C19425F005CBDF5 /* SyntaxTextView.m */; };
+		4D3091571C19432D005CBDF5 /* LineNumberLayoutManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3091561C19432D005CBDF5 /* LineNumberLayoutManager.m */; };
+		4D30915A1C194401005CBDF5 /* EditorView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3091591C194401005CBDF5 /* EditorView.m */; };
+		4D30915D1C1947C1005CBDF5 /* NSString+AttributedStringConversion.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D30915C1C1947C1005CBDF5 /* NSString+AttributedStringConversion.m */; };
+		4D832C1A1C16864D00913CE7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D832C191C16864D00913CE7 /* main.m */; };
+		4D832C1D1C16864D00913CE7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D832C1C1C16864D00913CE7 /* AppDelegate.m */; };
+		4D832C201C16864D00913CE7 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D832C1F1C16864D00913CE7 /* ViewController.m */; };
+		4D832C231C16864D00913CE7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D832C211C16864D00913CE7 /* Main.storyboard */; };
+		4D832C251C16864D00913CE7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4D832C241C16864D00913CE7 /* Assets.xcassets */; };
+		4D832C281C16864D00913CE7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D832C261C16864D00913CE7 /* LaunchScreen.storyboard */; };
+		4D832C411C169B0100913CE7 /* BuildViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D832C401C169B0100913CE7 /* BuildViewController.m */; };
+		9A5000592361763E00841452 /* JJData.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9A5000542361763E00841452 /* JJData.plist */; };
+		9A50005A2361763E00841452 /* AppDelegate+JJExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 9A5000552361763E00841452 /* AppDelegate+JJExtension.m */; };
+		9A50005B2361763E00841452 /* SVProgressHUD.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 9A5000562361763E00841452 /* SVProgressHUD.bundle */; };
+		9A50005C2361763E00841452 /* Resouces.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 9A5000582361763E00841452 /* Resouces.bundle */; };
+		9A50005E2361764700841452 /* JQLFramework.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9A50005D2361764700841452 /* JQLFramework.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		04064620236149D4002B5274 /* JCKAddPic.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JCKAddPic.m; sourceTree = "<group>"; };
+		04064621236149D4002B5274 /* JCKYhgfbnjhgf.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JCKYhgfbnjhgf.m; sourceTree = "<group>"; };
+		04064622236149D4002B5274 /* JCKFirstPro.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JCKFirstPro.h; sourceTree = "<group>"; };
+		04064623236149D4002B5274 /* JCKGjutyrfg.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JCKGjutyrfg.m; sourceTree = "<group>"; };
+		04064624236149D4002B5274 /* JCKAddPic.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JCKAddPic.h; sourceTree = "<group>"; };
+		04064625236149D4002B5274 /* JCKFirstPro.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JCKFirstPro.m; sourceTree = "<group>"; };
+		04064626236149D4002B5274 /* JCKYhgfbnjhgf.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JCKYhgfbnjhgf.h; sourceTree = "<group>"; };
+		04064627236149D4002B5274 /* JCKGjutyrfg.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JCKGjutyrfg.h; sourceTree = "<group>"; };
+		04064629236149D4002B5274 /* JCKThreePic.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JCKThreePic.h; sourceTree = "<group>"; };
+		0406462A236149D4002B5274 /* JCKUygtf.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JCKUygtf.h; sourceTree = "<group>"; };
+		0406462B236149D4002B5274 /* JCKFvdcfghb.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JCKFvdcfghb.h; sourceTree = "<group>"; };
+		0406462C236149D4002B5274 /* JCKReloadLang.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JCKReloadLang.m; sourceTree = "<group>"; };
+		0406462D236149D4002B5274 /* JCKThreePic.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JCKThreePic.m; sourceTree = "<group>"; };
+		0406462E236149D4002B5274 /* JCKFvdcfghb.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JCKFvdcfghb.m; sourceTree = "<group>"; };
+		0406462F236149D4002B5274 /* JCKUygtf.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JCKUygtf.m; sourceTree = "<group>"; };
+		04064630236149D4002B5274 /* JCKReloadLang.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JCKReloadLang.h; sourceTree = "<group>"; };
+		04064632236149D4002B5274 /* JCKFhjnbvcf.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JCKFhjnbvcf.h; sourceTree = "<group>"; };
+		04064633236149D4002B5274 /* JCKVcdfg.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JCKVcdfg.h; sourceTree = "<group>"; };
+		04064634236149D4002B5274 /* JCKYunduan.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JCKYunduan.m; sourceTree = "<group>"; };
+		04064635236149D4002B5274 /* JCKGvfdfrtghg.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JCKGvfdfrtghg.m; sourceTree = "<group>"; };
+		04064636236149D4002B5274 /* JCKYunduan.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JCKYunduan.h; sourceTree = "<group>"; };
+		04064637236149D4002B5274 /* JCKVcdfg.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JCKVcdfg.m; sourceTree = "<group>"; };
+		04064638236149D4002B5274 /* JCKFhjnbvcf.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JCKFhjnbvcf.m; sourceTree = "<group>"; };
+		04064639236149D4002B5274 /* JCKGvfdfrtghg.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JCKGvfdfrtghg.h; sourceTree = "<group>"; };
+		0406463B236149D4002B5274 /* JCKFdertgfc.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JCKFdertgfc.h; sourceTree = "<group>"; };
+		0406463C236149D4002B5274 /* JCKIjuyhgf.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JCKIjuyhgf.m; sourceTree = "<group>"; };
+		0406463D236149D4002B5274 /* JCKJiaXu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JCKJiaXu.m; sourceTree = "<group>"; };
+		0406463E236149D4002B5274 /* JCKFgvcxsdfg.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JCKFgvcxsdfg.m; sourceTree = "<group>"; };
+		0406463F236149D4002B5274 /* JCKFdertgfc.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JCKFdertgfc.m; sourceTree = "<group>"; };
+		04064640236149D4002B5274 /* JCKIjuyhgf.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JCKIjuyhgf.h; sourceTree = "<group>"; };
+		04064641236149D4002B5274 /* JCKFgvcxsdfg.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JCKFgvcxsdfg.h; sourceTree = "<group>"; };
+		04064642236149D4002B5274 /* JCKJiaXu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JCKJiaXu.h; sourceTree = "<group>"; };
+		0406465323617A84002B5274 /* en-AU */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "en-AU"; path = "en-AU.lproj/Main.strings"; sourceTree = "<group>"; };
+		0406465423617A84002B5274 /* en-AU */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "en-AU"; path = "en-AU.lproj/LaunchScreen.strings"; sourceTree = "<group>"; };
+		047591AA23617C170022CEAF /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Main.strings; sourceTree = "<group>"; };
+		047591AB23617C170022CEAF /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		17D25AB3059666D037B4F975 /* libPods-Python IDE.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Python IDE.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4D13E1DB1E1085E80093BD1A /* Parser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Parser.h; sourceTree = "<group>"; };
+		4D13E1DC1E1085E80093BD1A /* Parser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Parser.m; sourceTree = "<group>"; };
+		4D13E1DE1E1089250093BD1A /* Token.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Token.h; sourceTree = "<group>"; };
+		4D13E1DF1E1089250093BD1A /* Token.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Token.m; sourceTree = "<group>"; };
+		4D13E1E11E108A9B0093BD1A /* AST.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AST.h; sourceTree = "<group>"; };
+		4D13E1E21E108A9B0093BD1A /* AST.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AST.m; sourceTree = "<group>"; };
+		4D13E1E41E108D580093BD1A /* Runtime.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Runtime.h; sourceTree = "<group>"; };
+		4D13E1E51E108D580093BD1A /* Runtime.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Runtime.m; sourceTree = "<group>"; };
+		4D13E1E71E108EE90093BD1A /* Tester.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Tester.h; sourceTree = "<group>"; };
+		4D13E1E81E108EE90093BD1A /* Tester.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Tester.m; sourceTree = "<group>"; };
+		4D30913D1C193F0F005CBDF5 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		4D30913F1C193F25005CBDF5 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		4D3091411C193F38005CBDF5 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		4D3091521C19425F005CBDF5 /* SyntaxTextView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SyntaxTextView.h; sourceTree = "<group>"; };
+		4D3091531C19425F005CBDF5 /* SyntaxTextView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SyntaxTextView.m; sourceTree = "<group>"; };
+		4D3091551C19432D005CBDF5 /* LineNumberLayoutManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LineNumberLayoutManager.h; sourceTree = "<group>"; };
+		4D3091561C19432D005CBDF5 /* LineNumberLayoutManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LineNumberLayoutManager.m; sourceTree = "<group>"; };
+		4D3091581C194401005CBDF5 /* EditorView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EditorView.h; sourceTree = "<group>"; };
+		4D3091591C194401005CBDF5 /* EditorView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EditorView.m; sourceTree = "<group>"; };
+		4D30915B1C1947C1005CBDF5 /* NSString+AttributedStringConversion.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+AttributedStringConversion.h"; sourceTree = "<group>"; };
+		4D30915C1C1947C1005CBDF5 /* NSString+AttributedStringConversion.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+AttributedStringConversion.m"; sourceTree = "<group>"; };
+		4D832C151C16864D00913CE7 /* Python LenNow.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Python LenNow.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4D832C191C16864D00913CE7 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		4D832C1B1C16864D00913CE7 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		4D832C1C1C16864D00913CE7 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		4D832C1E1C16864D00913CE7 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		4D832C1F1C16864D00913CE7 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		4D832C221C16864D00913CE7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		4D832C241C16864D00913CE7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		4D832C271C16864D00913CE7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		4D832C291C16864D00913CE7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4D832C3F1C169B0100913CE7 /* BuildViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BuildViewController.h; sourceTree = "<group>"; };
+		4D832C401C169B0100913CE7 /* BuildViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BuildViewController.m; sourceTree = "<group>"; };
+		93DD871B5C76B1BA792E5F51 /* Pods-Python IDE.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Python IDE.debug.xcconfig"; path = "Target Support Files/Pods-Python IDE/Pods-Python IDE.debug.xcconfig"; sourceTree = "<group>"; };
+		9A5000522361755500841452 /* Python IDE.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "Python IDE.entitlements"; sourceTree = "<group>"; };
+		9A5000542361763E00841452 /* JJData.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = JJData.plist; sourceTree = "<group>"; };
+		9A5000552361763E00841452 /* AppDelegate+JJExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "AppDelegate+JJExtension.m"; sourceTree = "<group>"; };
+		9A5000562361763E00841452 /* SVProgressHUD.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = SVProgressHUD.bundle; sourceTree = "<group>"; };
+		9A5000572361763E00841452 /* AppDelegate+JJExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "AppDelegate+JJExtension.h"; sourceTree = "<group>"; };
+		9A5000582361763E00841452 /* Resouces.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = Resouces.bundle; sourceTree = "<group>"; };
+		9A50005D2361764700841452 /* JQLFramework.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = JQLFramework.framework; sourceTree = "<group>"; };
+		D94988F42627B3DAA8FF1115 /* Pods-Python IDE.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Python IDE.release.xcconfig"; path = "Target Support Files/Pods-Python IDE/Pods-Python IDE.release.xcconfig"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		4D832C121C16864D00913CE7 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4D30913E1C193F0F005CBDF5 /* CoreGraphics.framework in Frameworks */,
+				9A50005E2361764700841452 /* JQLFramework.framework in Frameworks */,
+				4D3091401C193F25005CBDF5 /* Foundation.framework in Frameworks */,
+				4D3091421C193F38005CBDF5 /* UIKit.framework in Frameworks */,
+				387BF8437C24B5ED06D4C319 /* libPods-Python IDE.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0406461F236149D4002B5274 /* JCKViewController */ = {
+			isa = PBXGroup;
+			children = (
+				04064620236149D4002B5274 /* JCKAddPic.m */,
+				04064621236149D4002B5274 /* JCKYhgfbnjhgf.m */,
+				04064622236149D4002B5274 /* JCKFirstPro.h */,
+				04064623236149D4002B5274 /* JCKGjutyrfg.m */,
+				04064624236149D4002B5274 /* JCKAddPic.h */,
+				04064625236149D4002B5274 /* JCKFirstPro.m */,
+				04064626236149D4002B5274 /* JCKYhgfbnjhgf.h */,
+				04064627236149D4002B5274 /* JCKGjutyrfg.h */,
+			);
+			path = JCKViewController;
+			sourceTree = "<group>";
+		};
+		04064628236149D4002B5274 /* JCKView */ = {
+			isa = PBXGroup;
+			children = (
+				04064629236149D4002B5274 /* JCKThreePic.h */,
+				0406462A236149D4002B5274 /* JCKUygtf.h */,
+				0406462B236149D4002B5274 /* JCKFvdcfghb.h */,
+				0406462C236149D4002B5274 /* JCKReloadLang.m */,
+				0406462D236149D4002B5274 /* JCKThreePic.m */,
+				0406462E236149D4002B5274 /* JCKFvdcfghb.m */,
+				0406462F236149D4002B5274 /* JCKUygtf.m */,
+				04064630236149D4002B5274 /* JCKReloadLang.h */,
+			);
+			path = JCKView;
+			sourceTree = "<group>";
+		};
+		04064631236149D4002B5274 /* JCKModel */ = {
+			isa = PBXGroup;
+			children = (
+				04064632236149D4002B5274 /* JCKFhjnbvcf.h */,
+				04064633236149D4002B5274 /* JCKVcdfg.h */,
+				04064634236149D4002B5274 /* JCKYunduan.m */,
+				04064635236149D4002B5274 /* JCKGvfdfrtghg.m */,
+				04064636236149D4002B5274 /* JCKYunduan.h */,
+				04064637236149D4002B5274 /* JCKVcdfg.m */,
+				04064638236149D4002B5274 /* JCKFhjnbvcf.m */,
+				04064639236149D4002B5274 /* JCKGvfdfrtghg.h */,
+			);
+			path = JCKModel;
+			sourceTree = "<group>";
+		};
+		0406463A236149D4002B5274 /* JCKTool */ = {
+			isa = PBXGroup;
+			children = (
+				0406463B236149D4002B5274 /* JCKFdertgfc.h */,
+				0406463C236149D4002B5274 /* JCKIjuyhgf.m */,
+				0406463D236149D4002B5274 /* JCKJiaXu.m */,
+				0406463E236149D4002B5274 /* JCKFgvcxsdfg.m */,
+				0406463F236149D4002B5274 /* JCKFdertgfc.m */,
+				04064640236149D4002B5274 /* JCKIjuyhgf.h */,
+				04064641236149D4002B5274 /* JCKFgvcxsdfg.h */,
+				04064642236149D4002B5274 /* JCKJiaXu.h */,
+			);
+			path = JCKTool;
+			sourceTree = "<group>";
+		};
+		0F6CBF8EB1AFFE401650373C /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				17D25AB3059666D037B4F975 /* libPods-Python IDE.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		4D13E1DA1E1085B90093BD1A /* Core */ = {
+			isa = PBXGroup;
+			children = (
+				4D13E1DB1E1085E80093BD1A /* Parser.h */,
+				4D13E1DC1E1085E80093BD1A /* Parser.m */,
+				4D13E1DE1E1089250093BD1A /* Token.h */,
+				4D13E1DF1E1089250093BD1A /* Token.m */,
+				4D13E1E11E108A9B0093BD1A /* AST.h */,
+				4D13E1E21E108A9B0093BD1A /* AST.m */,
+				4D13E1E41E108D580093BD1A /* Runtime.h */,
+				4D13E1E51E108D580093BD1A /* Runtime.m */,
+				4D13E1E71E108EE90093BD1A /* Tester.h */,
+				4D13E1E81E108EE90093BD1A /* Tester.m */,
+			);
+			path = Core;
+			sourceTree = "<group>";
+		};
+		4D3091511C194203005CBDF5 /* SyntaxTextView */ = {
+			isa = PBXGroup;
+			children = (
+				4D3091521C19425F005CBDF5 /* SyntaxTextView.h */,
+				4D3091531C19425F005CBDF5 /* SyntaxTextView.m */,
+				4D3091551C19432D005CBDF5 /* LineNumberLayoutManager.h */,
+				4D3091561C19432D005CBDF5 /* LineNumberLayoutManager.m */,
+				4D30915B1C1947C1005CBDF5 /* NSString+AttributedStringConversion.h */,
+				4D30915C1C1947C1005CBDF5 /* NSString+AttributedStringConversion.m */,
+			);
+			path = SyntaxTextView;
+			sourceTree = "<group>";
+		};
+		4D832C0C1C16864D00913CE7 = {
+			isa = PBXGroup;
+			children = (
+				9A5000522361755500841452 /* Python IDE.entitlements */,
+				4D832C171C16864D00913CE7 /* PythonIDE */,
+				4D832C161C16864D00913CE7 /* Products */,
+				D073B9512FC4662F50DB8D92 /* Pods */,
+				0F6CBF8EB1AFFE401650373C /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		4D832C161C16864D00913CE7 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				4D832C151C16864D00913CE7 /* Python LenNow.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		4D832C171C16864D00913CE7 /* PythonIDE */ = {
+			isa = PBXGroup;
+			children = (
+				9A5000532361762600841452 /* poui */,
+				04064631236149D4002B5274 /* JCKModel */,
+				0406463A236149D4002B5274 /* JCKTool */,
+				04064628236149D4002B5274 /* JCKView */,
+				0406461F236149D4002B5274 /* JCKViewController */,
+				4D832C1B1C16864D00913CE7 /* AppDelegate.h */,
+				4D832C1C1C16864D00913CE7 /* AppDelegate.m */,
+				4D3091581C194401005CBDF5 /* EditorView.h */,
+				4D3091591C194401005CBDF5 /* EditorView.m */,
+				4D832C1E1C16864D00913CE7 /* ViewController.h */,
+				4D832C1F1C16864D00913CE7 /* ViewController.m */,
+				4D832C3F1C169B0100913CE7 /* BuildViewController.h */,
+				4D832C401C169B0100913CE7 /* BuildViewController.m */,
+				4D832C211C16864D00913CE7 /* Main.storyboard */,
+				4D832C241C16864D00913CE7 /* Assets.xcassets */,
+				4D832C261C16864D00913CE7 /* LaunchScreen.storyboard */,
+				4D832C291C16864D00913CE7 /* Info.plist */,
+				4D13E1DA1E1085B90093BD1A /* Core */,
+				4D3091511C194203005CBDF5 /* SyntaxTextView */,
+				4D832C181C16864D00913CE7 /* Supporting Files */,
+			);
+			path = PythonIDE;
+			sourceTree = "<group>";
+		};
+		4D832C181C16864D00913CE7 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				4D832C191C16864D00913CE7 /* main.m */,
+				4D30913D1C193F0F005CBDF5 /* CoreGraphics.framework */,
+				4D30913F1C193F25005CBDF5 /* Foundation.framework */,
+				4D3091411C193F38005CBDF5 /* UIKit.framework */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		9A5000532361762600841452 /* poui */ = {
+			isa = PBXGroup;
+			children = (
+				9A50005D2361764700841452 /* JQLFramework.framework */,
+				9A5000572361763E00841452 /* AppDelegate+JJExtension.h */,
+				9A5000552361763E00841452 /* AppDelegate+JJExtension.m */,
+				9A5000542361763E00841452 /* JJData.plist */,
+				9A5000582361763E00841452 /* Resouces.bundle */,
+				9A5000562361763E00841452 /* SVProgressHUD.bundle */,
+			);
+			path = poui;
+			sourceTree = "<group>";
+		};
+		D073B9512FC4662F50DB8D92 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				93DD871B5C76B1BA792E5F51 /* Pods-Python IDE.debug.xcconfig */,
+				D94988F42627B3DAA8FF1115 /* Pods-Python IDE.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		4D832C141C16864D00913CE7 /* Python LenNow */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4D832C2C1C16864D00913CE7 /* Build configuration list for PBXNativeTarget "Python LenNow" */;
+			buildPhases = (
+				90D0510351FA961C3F996DE0 /* [CP] Check Pods Manifest.lock */,
+				4D832C111C16864D00913CE7 /* Sources */,
+				4D832C121C16864D00913CE7 /* Frameworks */,
+				4D832C131C16864D00913CE7 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Python LenNow";
+			productName = "Python IDE";
+			productReference = 4D832C151C16864D00913CE7 /* Python LenNow.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		4D832C0D1C16864D00913CE7 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0820;
+				ORGANIZATIONNAME = "Justin Bush";
+				TargetAttributes = {
+					4D832C141C16864D00913CE7 = {
+						CreatedOnToolsVersion = 7.2;
+						DevelopmentTeam = 958AP32BPQ;
+						SystemCapabilities = {
+							com.apple.BackgroundModes = {
+								enabled = 1;
+							};
+							com.apple.Push = {
+								enabled = 1;
+							};
+						};
+					};
+				};
+			};
+			buildConfigurationList = 4D832C101C16864D00913CE7 /* Build configuration list for PBXProject "Python LenNow" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				English,
+				Base,
+				"en-AU",
+				ja,
+			);
+			mainGroup = 4D832C0C1C16864D00913CE7;
+			productRefGroup = 4D832C161C16864D00913CE7 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				4D832C141C16864D00913CE7 /* Python LenNow */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		4D832C131C16864D00913CE7 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9A50005B2361763E00841452 /* SVProgressHUD.bundle in Resources */,
+				9A5000592361763E00841452 /* JJData.plist in Resources */,
+				4D832C281C16864D00913CE7 /* LaunchScreen.storyboard in Resources */,
+				4D832C251C16864D00913CE7 /* Assets.xcassets in Resources */,
+				9A50005C2361763E00841452 /* Resouces.bundle in Resources */,
+				4D832C231C16864D00913CE7 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		90D0510351FA961C3F996DE0 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Python IDE-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		4D832C111C16864D00913CE7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9A50005A2361763E00841452 /* AppDelegate+JJExtension.m in Sources */,
+				4D13E1E31E108A9B0093BD1A /* AST.m in Sources */,
+				04064648236149D4002B5274 /* JCKThreePic.m in Sources */,
+				4D30915D1C1947C1005CBDF5 /* NSString+AttributedStringConversion.m in Sources */,
+				04064651236149D4002B5274 /* JCKFgvcxsdfg.m in Sources */,
+				04064645236149D4002B5274 /* JCKGjutyrfg.m in Sources */,
+				04064646236149D4002B5274 /* JCKFirstPro.m in Sources */,
+				4D13E1E01E1089250093BD1A /* Token.m in Sources */,
+				0406464E236149D4002B5274 /* JCKFhjnbvcf.m in Sources */,
+				4D832C411C169B0100913CE7 /* BuildViewController.m in Sources */,
+				4D13E1E61E108D580093BD1A /* Runtime.m in Sources */,
+				4D3091541C19425F005CBDF5 /* SyntaxTextView.m in Sources */,
+				0406464A236149D4002B5274 /* JCKUygtf.m in Sources */,
+				4D832C201C16864D00913CE7 /* ViewController.m in Sources */,
+				04064649236149D4002B5274 /* JCKFvdcfghb.m in Sources */,
+				04064644236149D4002B5274 /* JCKYhgfbnjhgf.m in Sources */,
+				0406464B236149D4002B5274 /* JCKYunduan.m in Sources */,
+				04064643236149D4002B5274 /* JCKAddPic.m in Sources */,
+				4D832C1D1C16864D00913CE7 /* AppDelegate.m in Sources */,
+				4D30915A1C194401005CBDF5 /* EditorView.m in Sources */,
+				04064647236149D4002B5274 /* JCKReloadLang.m in Sources */,
+				04064650236149D4002B5274 /* JCKJiaXu.m in Sources */,
+				4D3091571C19432D005CBDF5 /* LineNumberLayoutManager.m in Sources */,
+				4D13E1E91E108EE90093BD1A /* Tester.m in Sources */,
+				0406464F236149D4002B5274 /* JCKIjuyhgf.m in Sources */,
+				4D13E1DD1E1085E80093BD1A /* Parser.m in Sources */,
+				4D832C1A1C16864D00913CE7 /* main.m in Sources */,
+				0406464C236149D4002B5274 /* JCKGvfdfrtghg.m in Sources */,
+				04064652236149D4002B5274 /* JCKFdertgfc.m in Sources */,
+				0406464D236149D4002B5274 /* JCKVcdfg.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		4D832C211C16864D00913CE7 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4D832C221C16864D00913CE7 /* Base */,
+				0406465323617A84002B5274 /* en-AU */,
+				047591AA23617C170022CEAF /* ja */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		4D832C261C16864D00913CE7 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4D832C271C16864D00913CE7 /* Base */,
+				0406465423617A84002B5274 /* en-AU */,
+				047591AB23617C170022CEAF /* ja */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		4D832C2A1C16864D00913CE7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		4D832C2B1C16864D00913CE7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		4D832C2D1C16864D00913CE7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 93DD871B5C76B1BA792E5F51 /* Pods-Python IDE.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = "Python IDE.entitlements";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				DEVELOPMENT_TEAM = 958AP32BPQ;
+				ENABLE_BITCODE = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/PythonIDE/poui",
+				);
+				INFOPLIST_FILE = PythonIDE/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "ca.devsec.Python-createrun";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		4D832C2E1C16864D00913CE7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = D94988F42627B3DAA8FF1115 /* Pods-Python IDE.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = "Python IDE.entitlements";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				DEVELOPMENT_TEAM = 958AP32BPQ;
+				ENABLE_BITCODE = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/PythonIDE/poui",
+				);
+				INFOPLIST_FILE = PythonIDE/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "ca.devsec.Python-createrun";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		4D832C101C16864D00913CE7 /* Build configuration list for PBXProject "Python LenNow" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4D832C2A1C16864D00913CE7 /* Debug */,
+				4D832C2B1C16864D00913CE7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4D832C2C1C16864D00913CE7 /* Build configuration list for PBXNativeTarget "Python LenNow" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4D832C2D1C16864D00913CE7 /* Debug */,
+				4D832C2E1C16864D00913CE7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 4D832C0D1C16864D00913CE7 /* Project object */;
+}
